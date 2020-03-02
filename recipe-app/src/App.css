@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+.AppHeader{
+  padding: 25px;
+  text-align: center;
+  background: #5083d4;
+  color: white;
+  font-size: 30px;
+}
