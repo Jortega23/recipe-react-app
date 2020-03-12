@@ -25,7 +25,7 @@ class App extends Component {
   return (
     <div className='App'>
         <header className='App-header'>
-          <h1 className='App-Title'> Recipe </h1>
+          <h1 className='App-Title'> Recipe Finder</h1>
         </header>
         <Form getRecipe={this.getRecipe}/>
         <Recipes recipes={this.state.recipes}/>
